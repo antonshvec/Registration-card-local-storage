@@ -1,0 +1,16 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+label{
+  display: inline-block;
+   min-width: 100px;
+   margin: 20px 0 0 20px;
+
+}
+
+.btnSignUp{
+    margin: 20px 0 0 100px;
+}
